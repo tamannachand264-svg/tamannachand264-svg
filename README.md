@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi there! 👋 I'm Tamanna Chand
 
-I am a high-achieving **BCA Graduate (2026)** and an aspiring **AI & Software Engineer** passionate about building scalable, intelligent systems. My expertise spans full-stack development, Machine Learning, and emerging AI automation frameworks like LangChain and LangGraph.
+I am a high-achieving **BCA Graduate (2026)** and I am passionate about building scalable, intelligent systems. My expertise spans full-stack development, Machine Learning, and emerging AI automation frameworks like LangChain and LangGraph.
 
 With a strong foundation in algorithms and data structures, I love turning complex mathematical and logical problems into interactive, real-world software solutions.
 
