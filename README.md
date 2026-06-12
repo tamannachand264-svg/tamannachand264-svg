@@ -1,6 +1,48 @@
 # 💫 About Me:
-## Hi there I m Tamanna Chand
-<br><br>I am a high achieving BCA Graduate and an aspiring AI and Software Engineer passionate about building scalable intelligent systems. My expertise spans full stack development Machine Learning and emerging AI automation frameworks like LangChain and LangGraph<br><br>With a strong foundation in algorithms and data structures I love turning complex mathematical and logical problems into interactive real world software solutions.<br><br>Featured Projects<br><br>Smart PDF Chatbot RAG Based Document QA<br>Built an end to end Retrieval Augmented Generation RAG pipeline using Python FAISS and LangChain.<br>Implemented semantic search with vector indexing to enable highly accurate question answering over custom PDF documents while minimizing LLM hallucinations.<br><br>Smart Campus Navigator<br>Role Team Lead<br>Architected an AI driven navigation solution integrating the A Star Search Algorithm with a Map API for real time optimal route computing.<br>Modeled campus locations as a weighted graph significantly outperforming traditional Dijkstra baselines.<br><br>AlgoVista Algorithm Visualization Platform<br>Role Core Contributor<br>Collaborated on a production grade multi module visualization platform featuring 6 interactive modules including Pathfinding CPU Scheduling Memory Allocation and Sorting.<br>Built a Comparison Arena for side by side algorithm benchmarking with live time complexity metrics using TypeScript React and Tailwind.<br><br>Tech Stack and Tooling<br><br>Languages Python JavaScript TypeScript C++ C SQL PHP<br>AI and Automation LangChain LangGraph n8n RAG FAISS Prompt Engineering<br>Machine Learning Scikit learn Pandas NumPy Matplotlib SVM Logistic Regression<br>Web Frameworks React Flask HTML5 CSS3 Tailwind CSS Bootstrap<br>Tools and Databases Git VS Code MySQL Google Colab Tableau Excel<br><br>Education and Certifications<br><br>Bachelor of Computer Applications BCA at Graphic Era Hill University<br>Data Analytics Virtual Internship via Deloitte and Forage<br>NPTEL Elite Certifications in International Business and Soft Skills Development from IIT
+# Hi there! 👋 I'm Tamanna Chand
+
+I am a high-achieving **BCA Graduate (2026)** and an aspiring **AI & Software Engineer** passionate about building scalable, intelligent systems. My expertise spans full-stack development, Machine Learning, and emerging AI automation frameworks like LangChain and LangGraph.
+
+With a strong foundation in algorithms and data structures, I love turning complex mathematical and logical problems into interactive, real-world software solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Smart PDF Chatbot (RAG-Based Document QA)
+*   Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline using **Python, FAISS, and LangChain**.
+*   Implemented semantic search with vector indexing to enable highly accurate question-answering over custom PDF documents while minimizing LLM hallucinations.
+
+### 🗺️ Smart Campus Navigator
+*   **Role: Team Lead**
+*   Architected an AI-driven navigation solution integrating the **$A^*$ Search Algorithm** with a Map API for real-time optimal route computing.
+*   Modeled campus locations as a weighted graph, significantly outperforming traditional Dijkstra baselines.
+
+### 📊 AlgoVista (Algorithm Visualization Platform)
+*   **Role: Core Contributor**
+*   Collaborated on a production-grade multi-module visualization platform featuring 6 interactive modules (Pathfinding, CPU Scheduling, Memory Allocation, and Sorting).
+*   Built a "Comparison Arena" for side-by-side algorithm benchmarking with live time-complexity metrics using **TypeScript, React, and Tailwind**.
+
+---
+
+## 🛠 Tech Stack & Tooling
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, C++, C, SQL, PHP |
+| **AI & Automation** | LangChain, LangGraph, n8n, RAG, FAISS, Prompt Engineering |
+| **Machine Learning** | Scikit-learn, Pandas, NumPy, Matplotlib (SVM, Logistic Regression) |
+| **Web Frameworks** | React, Flask, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Tools & Databases** | Git, VS Code, MySQL, Google Colab, Tableau, Excel |
+
+---
+
+## 📈 Education & Certifications
+*   **Bachelor of Computer Applications (BCA)** | Graphic Era Hill University
+*   **Data Analytics Virtual Internship** | Deloitte (via Forage)
+*   **NPTEL Elite Certifications** | International Business & Soft Skills Development (IIT)
+
+]
 
 
 # 💻 Tech Stack:
