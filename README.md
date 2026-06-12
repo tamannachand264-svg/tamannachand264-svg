@@ -42,7 +42,7 @@ With a strong foundation in algorithms and data structures, I love turning compl
 *   **Data Analytics Virtual Internship** | Deloitte (via Forage)
 *   **NPTEL Elite Certifications** | International Business & Soft Skills Development (IIT)
 
-]
+
 
 
 #  Tech Stack:
